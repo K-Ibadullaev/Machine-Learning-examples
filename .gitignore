@@ -2,3 +2,4 @@ Imputing_Preprocessing.ipynb
 Param_tune.ipynb
 Multilayer_Artificial_Neural_Networks.ipynb
 MLP.py
+mnist_scaled.npz
